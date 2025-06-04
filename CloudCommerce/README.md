@@ -1,5 +1,5 @@
 
-# CloudCommerce – Minimal Scaffold
+# CloudCommerce – Micro Services
 
  
 - .NET 8 ve C# 12 hedeflenmiştir.
